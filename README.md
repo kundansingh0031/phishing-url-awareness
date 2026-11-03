@@ -71,7 +71,7 @@ More details about testing are available in `tests/test_samples.md`.
 ## Screenshots
 
 ### Sample Run
-![Sample run] (https://github.com/kundansingh0031/phishing-url-awareness/blob/main/phishing-url-awareness/screenshots/sample_run.png.png )
+![Sample run](https://github.com/kundansingh0031/phishing-url-awareness/blob/main/phishing-url-awareness/screenshots/sample_run.png.png )
 
 ### Test Results
 ![Test results](https://github.com/kundansingh0031/phishing-url-awareness/blob/main/phishing-url-awareness/screenshots/test_results.png.png)
