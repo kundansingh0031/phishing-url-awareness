@@ -71,10 +71,10 @@ More details about testing are available in `tests/test_samples.md`.
 ## Screenshots
 
 ### Sample Run
-![Sample run](screenshots/sample_run.png)
+![Sample run](<img width="545" height="151" alt="sample_run png" src="https://github.com/user-attachments/assets/84ab0324-5e76-4ff1-acb1-efa919e212b9" />)
 
 ### Test Results
-![Test results](screenshots/test_results.png)
+![Test results](<img width="959" height="505" alt="test_results png" src="https://github.com/user-attachments/assets/f909988b-1ec6-45e4-b6b9-71ed18cd2b8b" /> )
 
 ## Improvements
 
